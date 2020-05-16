@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>BISMILLAH PORTOFOLIO</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    
+<div class="background">
+
+<div class="nav">
+    <a class="a active" href="#">HOME</a>
+    <a class="b" href="#">ABOUT ME</a>
+    <a class="c" href="#">GALERRY</a>
+    <a class="d" href="#">CONTACT US</a>        
+</div>
+
+<div class="content">
+
+    <div class="home">
+        <h1>Fitrah Amaliah</h1>
+        <h3>SUCCES PEOPLE</h3>
+    </div>
+
+    <div class="aboutus">
+        <p><b>Hello Friends,</b><br>
+        <b>Welcome to my First Web.</b> Eya bahasa inggris an dong Saya. <br>
+        Ini adalah Web pertama yang Saya buat. Sebelumnya Saya juga berterimakasih kepada 
+        Dosen Pemrograman Web Saya Bapak Made, yang telah memberikan Saya tugas membuat Web 
+        dengan HTML dan CSS. Mungkin jika tidak diberi tugas Saya juga tidak akan mencoba membuatnya.
+        
+        Kali ini Saya akan membuat Web yang berisikan Portofolio Saya, 
+        sebenarnya lebih tepatnya Portofolio yang berisikan tentang prestasi Saya 
+        selama berkuliah di Universitas Negeri Surabaya Jurusan Teknik Informatika, 
+        Prodi Teknik Informatika ini. Mungkin karena Saya masih berkuliah dua tahun ini, 
+        Prestasi Saya belum Saya tuangkan seutuhnya. InsyaAllah berikutnya Saya akan menjadi 
+        anak yang berprestasi di Jurusan Teknik Informatika ini. Aamiin YAallah. 
+        Do’a dan dukungan dari kedua orangtua, Dosen, Teman-teman, dan lainnya sangat lah berpengaruh. 
+        Jadi Saya minta tolong kebaikannya untuk Saya.
+            
+        Mungkin ini dulu yang dapat Saya isi di Web Portofolio Saya, selebihnya InsayAllah akan 
+        Saya tambahi dengan menyebutkan prestasi Saya yang InsyaAllah membanggakan. 
+        Aamiiin YaRobbal’Alamiin.</p>
+    </div>
+
+    <div class="gallery">
+    <h1>Hello I Am Gallery</h1>
+        <div class="image">
+            <img src="images/1.jpg"/>
+        </div>
+        <div class="image">
+            <img src="images/2.jpg"/>
+        </div>
+        <div class="image">
+            <img src="images/3.jpg"/>
+        </div>
+        <div class="image">
+            <img src="images/4.jpg"/>
+        </div>
+        <div class="image">
+            <img src="images/5.jpg"/>
+        </div>
+        <div class="image">
+            <img src="images/6.jpg"/>
+        </div>
+        <div class="image">
+            <img src="images/7.jpg"/>
+        </div>
+        <div class="image">
+            <img src="images/8.jpg"/>
+        </div>
+        <div class="image">
+            <img src="images/9.jpg"/>
+        </div>
+    </div>
+    <div class="contactus">
+        <div class="contactform">
+            <form action="index.html" method="post">
+                <input type="text" name="" class="inputtext" value="First Name">
+                <input type="text" name="" class="inputtext" value="Last Name">
+                <input type="text" name="" class="inputtext" value="Your Email">
+                <textarea cols="4" rows="6" class="inputmessage">Your Messages...!!!</textarea>
+                <input type="button" name="" class="submitbutton" value="SUBMIT">
+            </form>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function(){
+        $('a').click(function(){
+            //alert("i am click");
+            var selected = $(this);
+            $('a').removeClass('.active')
+            $(selected).addClass('avtive');
+          });
+          var $a = $('.a'),
+          $b = $('.b'),
+            $c = $('.c'),
+            $d = $('.d'),
+            $home = $('.home'),
+            $aboutus = $('.aboutus');
+            $gallery = $('.gallery');
+            $contactus = $('.contactus');
+
+            $a.click(function(){
+                $home.fadeIn();
+                $aboutus.fadeOut();
+                $gallery.fadeOut();
+                $contactus.fadeOut();
+            })
+            $b.click(function(){
+                $aboutus.fadeIn();
+                $home.fadeOut();
+                $gallery.fadeOut();
+                $contactus.fadeOut();
+            });
+            $c.click(function(){
+                $gallery.fadeIn();
+                $home.fadeOut();
+                $aboutus.fadeOut();
+                $contactus.fadeOut();
+            });
+            $d.click(function(){
+                $contactus.fadeIn();
+                $home.fadeOut();
+                $aboutus.fadeOut();
+                $gallery.fadeOut();
+            });
+    });
+
+      
+</script>
+
+
+</body>
+</html>

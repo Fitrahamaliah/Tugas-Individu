@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\bin\Debug\FORMEKSPEDISI.exe.config
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\bin\Debug\FORMEKSPEDISI.exe
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\bin\Debug\FORMEKSPEDISI.pdb
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\obj\Debug\FORMEKSPEDISI.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\obj\Debug\FORMEKSPEDISI.Form1.resources
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\obj\Debug\FORMEKSPEDISI.Properties.Resources.resources
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\obj\Debug\FORMEKSPEDISI.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\obj\Debug\FORMEKSPEDISI.exe
+C:\Users\HP\source\repos\FORMEKSPEDISI\FORMEKSPEDISI\obj\Debug\FORMEKSPEDISI.pdb

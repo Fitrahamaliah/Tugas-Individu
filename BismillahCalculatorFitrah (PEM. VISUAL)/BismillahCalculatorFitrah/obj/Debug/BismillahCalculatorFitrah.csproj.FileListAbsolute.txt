@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\bin\Debug\BismillahCalculatorFitrah.exe.config
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\bin\Debug\BismillahCalculatorFitrah.exe
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\bin\Debug\BismillahCalculatorFitrah.pdb
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\obj\Debug\BismillahCalculatorFitrah.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\obj\Debug\BismillahCalculatorFitrah.Form1.resources
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\obj\Debug\BismillahCalculatorFitrah.Properties.Resources.resources
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\obj\Debug\BismillahCalculatorFitrah.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\obj\Debug\BismillahCalculatorFitrah.exe
+C:\Users\HP\source\repos\BismillahCalculatorFitrah\BismillahCalculatorFitrah\obj\Debug\BismillahCalculatorFitrah.pdb
